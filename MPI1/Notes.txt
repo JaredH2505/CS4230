@@ -1,0 +1,9 @@
+Build commands
+
+mpicc -O3 -o
+mpirun -np 
+
+Questions
+Alpha Beta How to calc? Look at message time trend and discuss
+Ring problem overview/ changes
+Q3 general problem

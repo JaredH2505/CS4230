@@ -1,0 +1,5 @@
+gcc -fopenmp -O3 mmt_main.c mmt_seq.c mmt_par.c -o mmt
+
+gcc -fopenmp -O3 mmtu_main.c mmtu_seq.c mmtu_par.c -o mmtu
+
+gcc -fopenmp -O3 mv2_main.c mv2_seq.c mv2_par.c -o mv2
